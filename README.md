@@ -98,3 +98,17 @@ The key physical parameters can be modified in the second cell of the notebook:
   - `U_0`: On-site attractive interaction strength.
   - `ite`: Maximum number of iterations for the self-consistent loop.
   - `temp`: The NumPy array defining the temperature range for the calculation. (last cell)
+
+
+## Final Output 📊
+
+### Superconducting order parameter with temperature
+
+The superconducting order parameter $\Delta(T)$ obtained self-consistently 
+using the BdG formalism. The plot shows a clear second-order phase transition, 
+with the gap vanishing at the critical temperature.
+
+<p align="center">
+  <img src="Delta_vs_T_BCS_s_wave_superconductor_calculated_self_consistently.png" width="500">
+</p>
+
