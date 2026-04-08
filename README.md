@@ -5,7 +5,7 @@ This repository contains a Python Jupyter Notebook that performs a self-consiste
 
 -----
 
-## Final Output 📊
+## Final Output 
 
 The code produces the plot attached in pdf, showing the superconducting gap vanishing at the critical temperature $T\_c$:
 
@@ -21,7 +21,7 @@ The code produces the plot attached in pdf, showing the superconducting gap vani
 
 -----
 
-## Theoretical Background 🔬
+## Theoretical Background 
 
 The calculation starts with the attractive Hubbard model Hamiltonian:
 
@@ -43,7 +43,7 @@ where $f(E\_n) = (1 + e^{E\_n / k\_B T})^{-1}$ is the Fermi-Dirac distribution. 
 
 -----
 
-## Code Structure ⚙️
+## Code Structure 
 
 The Jupyter Notebook is organized into the following main cells:
 
@@ -63,7 +63,7 @@ The Jupyter Notebook is organized into the following main cells:
 
 -----
 
-## How to Run 🚀
+## How to Run 
 
 ### Dependencies
 
@@ -100,7 +100,7 @@ The key physical parameters can be modified in the second cell of the notebook:
   - `temp`: The NumPy array defining the temperature range for the calculation. (last cell)
 
 
-## Final Output 📊
+## Final Output 
 
 ### Superconducting order parameter with temperature
 
@@ -113,7 +113,7 @@ with the gap vanishing at the critical temperature.
 </p>
 
 
-## 📚 References
+##  References
 
 - P. G. de Gennes, *Superconductivity of Metals and Alloys* (CRC Press, 1999).
 - J.-X. Zhu, *Bogoliubov-de Gennes Method and Its Applications*, 
