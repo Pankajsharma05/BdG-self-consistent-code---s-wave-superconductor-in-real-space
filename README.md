@@ -112,3 +112,9 @@ with the gap vanishing at the critical temperature.
   <img src="Delta_vs_T_BCS_s_wave_superconductor_calculated_self_consistently.png" width="500">
 </p>
 
+
+## 📚 References
+
+- P. G. de Gennes, *Superconductivity of Metals and Alloys* (CRC Press, 1999).
+- J.-X. Zhu, *Bogoliubov-de Gennes Method and Its Applications*, 
+  Lecture Notes in Physics Vol. 924 (Springer, 2016).
